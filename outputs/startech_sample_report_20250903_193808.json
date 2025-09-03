@@ -1,0 +1,138 @@
+{
+  "scraping_summary": {
+    "timestamp": "20250903_193808",
+    "total_products": 31,
+    "total_categories_found": 5,
+    "categories_with_products": 4,
+    "scraping_method": "fast_multi_threaded"
+  },
+  "top_categories": {
+    "Star PC": 10,
+    "Ryzen PC": 7,
+    "Desktop Offer": 7,
+    "Desktop": 7
+  },
+  "top_brands": {},
+  "sample_products": [
+    {
+      "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+      "price": "28,300৳30,120৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/intel-core-i3-12100-12th-gen-budget-desktop-pc-03-228x228.webp",
+      "product_url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "AMD Ryzen 5 5600G Desktop PC",
+      "price": "30,750৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/38904-228x228.webp",
+      "product_url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "price": "28,999৳31,350৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-5600g-budget-desktop-pc-001-228x228.webp",
+      "product_url": "https://www.startech.com.bd/amd-ryzen-5-5600g-budget-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "Intel 10th Gen Core i5-10400 Desktop PC",
+      "price": "32,150৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/intel-10th-gen-core-i5-10400-desktop-pc-003-228x228.webp",
+      "product_url": "https://www.startech.com.bd/intel-10th-gen-core-i5-10400-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+      "price": "30,622৳33,650৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/31452-228x228.webp",
+      "product_url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+      "price": "33,248৳35,750৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/38909-228x228.webp",
+      "product_url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "price": "39,700৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-budget-desktop-pc-001-228x228.webp",
+      "product_url": "https://www.startech.com.bd/amd-ryzen-5-budget-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "Intel Core i5 14500 14th Gen Desktop PC",
+      "price": "48,500৳51,800৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/intel-core-i5-14500-desktop-pc-228x228.webp",
+      "product_url": "https://www.startech.com.bd/intel-core-i5-14500-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "AMD Ryzen 5 8500G Desktop PC",
+      "price": "44,500৳46,000৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-8500g-desktop-pc-001-228x228.webp",
+      "product_url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc",
+      "model": "",
+      "rating": ""
+    },
+    {
+      "name": "Intel 13th Gen Core i5 13400 Budget Desktop PC with Monitor",
+      "price": "58,999৳60,600৳",
+      "brand": "",
+      "category": "Star PC",
+      "subcategory": "Desktop",
+      "availability": "",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/intel-13th-gen-core-i5-13400-budget-desktop-pc-with-monitor-228x228.webp",
+      "product_url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400-budget-desktop-pc-with-monitor",
+      "model": "",
+      "rating": ""
+    }
+  ]
+}

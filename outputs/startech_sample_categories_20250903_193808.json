@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Desktop",
+    "url": "https://www.startech.com.bd/desktops",
+    "level": "main",
+    "parent": null
+  },
+  {
+    "name": "Desktop Offer",
+    "url": "https://www.startech.com.bd/special-pc",
+    "level": "sub",
+    "parent": "Desktop"
+  },
+  {
+    "name": "Star PC",
+    "url": "https://www.startech.com.bd/desktops/star-pc",
+    "level": "sub",
+    "parent": "Desktop"
+  },
+  {
+    "name": "Intel PC",
+    "url": "https://www.startech.com.bd/intel-pc",
+    "level": "subsub",
+    "parent": "Star PC"
+  },
+  {
+    "name": "Ryzen PC",
+    "url": "https://www.startech.com.bd/ryzen-pc",
+    "level": "subsub",
+    "parent": "Star PC"
+  }
+]
