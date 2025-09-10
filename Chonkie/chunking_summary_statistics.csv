@@ -1,0 +1,6 @@
+,length,length,length,length,length,chunk_id
+,count,mean,std,min,max,count
+strategy,,,,,,
+recursive,4333,242.22,37.4,115,299,4333
+sentence,7637,173.19,15.05,75,199,7637
+token,26239,50.0,0.22,15,50,26239
