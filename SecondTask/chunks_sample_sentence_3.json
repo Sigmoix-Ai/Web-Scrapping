@@ -1,0 +1,1502 @@
+[
+  {
+    "chunk_id": 0,
+    "product_id": 0,
+    "text": "Product: Intel Core i3-12100 12th Gen Budget Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "28,300\u09f330,120\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 17
+  },
+  {
+    "chunk_id": 1,
+    "product_id": 0,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "28,300\u09f330,120\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 2,
+    "product_id": 0,
+    "text": "Subcategory: Star PC. ",
+    "metadata": {
+      "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "28,300\u09f330,120\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 3,
+    "product_id": 0,
+    "text": "Price: 28,300\u09f330,120\u09f3",
+    "metadata": {
+      "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "28,300\u09f330,120\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 4,
+    "product_id": 1,
+    "text": "Product: Intel 10th Gen Core i5-10400 Desktop PC. ",
+    "metadata": {
+      "name": "Intel 10th Gen Core i5-10400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "32,150\u09f3",
+      "url": "https://www.startech.com.bd/intel-10th-gen-core-i5-10400-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 16
+  },
+  {
+    "chunk_id": 5,
+    "product_id": 1,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel 10th Gen Core i5-10400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "32,150\u09f3",
+      "url": "https://www.startech.com.bd/intel-10th-gen-core-i5-10400-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 6,
+    "product_id": 1,
+    "text": "Subcategory: Star PC. ",
+    "metadata": {
+      "name": "Intel 10th Gen Core i5-10400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "32,150\u09f3",
+      "url": "https://www.startech.com.bd/intel-10th-gen-core-i5-10400-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 7,
+    "product_id": 1,
+    "text": "Price: 32,150\u09f3",
+    "metadata": {
+      "name": "Intel 10th Gen Core i5-10400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "32,150\u09f3",
+      "url": "https://www.startech.com.bd/intel-10th-gen-core-i5-10400-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 8,
+    "product_id": 2,
+    "text": "Product: Intel 12th Gen Core i5-12400 Desktop PC. ",
+    "metadata": {
+      "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "33,248\u09f335,750\u09f3",
+      "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 16
+  },
+  {
+    "chunk_id": 9,
+    "product_id": 2,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "33,248\u09f335,750\u09f3",
+      "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 10,
+    "product_id": 2,
+    "text": "Subcategory: Star PC. ",
+    "metadata": {
+      "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "33,248\u09f335,750\u09f3",
+      "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 11,
+    "product_id": 2,
+    "text": "Price: 33,248\u09f335,750\u09f3",
+    "metadata": {
+      "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "33,248\u09f335,750\u09f3",
+      "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 12,
+    "product_id": 3,
+    "text": "Product: Intel Core i5 14500 14th Gen Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core i5 14500 14th Gen Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "48,500\u09f351,800\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14500-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 15
+  },
+  {
+    "chunk_id": 13,
+    "product_id": 3,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core i5 14500 14th Gen Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "48,500\u09f351,800\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14500-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 14,
+    "product_id": 3,
+    "text": "Subcategory: Star PC. ",
+    "metadata": {
+      "name": "Intel Core i5 14500 14th Gen Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "48,500\u09f351,800\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14500-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 15,
+    "product_id": 3,
+    "text": "Price: 48,500\u09f351,800\u09f3",
+    "metadata": {
+      "name": "Intel Core i5 14500 14th Gen Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "48,500\u09f351,800\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14500-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 16,
+    "product_id": 4,
+    "text": "Product: Intel 13th Gen Core i5 13400 Budget Desktop PC with Monitor. ",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400 Budget Desktop PC with Monitor",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "58,999\u09f360,600\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400-budget-desktop-pc-with-monitor"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 18
+  },
+  {
+    "chunk_id": 17,
+    "product_id": 4,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400 Budget Desktop PC with Monitor",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "58,999\u09f360,600\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400-budget-desktop-pc-with-monitor"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 18,
+    "product_id": 4,
+    "text": "Subcategory: Star PC. ",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400 Budget Desktop PC with Monitor",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "58,999\u09f360,600\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400-budget-desktop-pc-with-monitor"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 19,
+    "product_id": 4,
+    "text": "Price: 58,999\u09f360,600\u09f3",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400 Budget Desktop PC with Monitor",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "58,999\u09f360,600\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400-budget-desktop-pc-with-monitor"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 20,
+    "product_id": 5,
+    "text": "Product: Acer Veriton S2690G Core i5 12th Gen Tower Brand PC. ",
+    "metadata": {
+      "name": "Acer Veriton S2690G Core i5 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "56,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-s2690g-core-i5-12th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 22
+  },
+  {
+    "chunk_id": 21,
+    "product_id": 5,
+    "text": "Category: Acer. ",
+    "metadata": {
+      "name": "Acer Veriton S2690G Core i5 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "56,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-s2690g-core-i5-12th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 22,
+    "product_id": 5,
+    "text": "Subcategory: Brand PC. ",
+    "metadata": {
+      "name": "Acer Veriton S2690G Core i5 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "56,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-s2690g-core-i5-12th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 23,
+    "product_id": 5,
+    "text": "Price: 56,500\u09f3",
+    "metadata": {
+      "name": "Acer Veriton S2690G Core i5 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "56,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-s2690g-core-i5-12th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 24,
+    "product_id": 6,
+    "text": "Product: Acer Veriton MT M4690G Core i3 14th Gen Tower Brand PC. ",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i3 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "51,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i3-14th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 23
+  },
+  {
+    "chunk_id": 25,
+    "product_id": 6,
+    "text": "Category: Acer. ",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i3 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "51,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i3-14th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 26,
+    "product_id": 6,
+    "text": "Subcategory: Brand PC. ",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i3 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "51,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i3-14th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 27,
+    "product_id": 6,
+    "text": "Price: 51,500\u09f3",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i3 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "51,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i3-14th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 28,
+    "product_id": 7,
+    "text": "Product: Acer Veriton MT M4690G Core i5 14th Gen Tower Brand PC. ",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i5 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "61,000\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i5-14th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 23
+  },
+  {
+    "chunk_id": 29,
+    "product_id": 7,
+    "text": "Category: Acer. ",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i5 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "61,000\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i5-14th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 30,
+    "product_id": 7,
+    "text": "Subcategory: Brand PC. ",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i5 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "61,000\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i5-14th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 31,
+    "product_id": 7,
+    "text": "Price: 61,000\u09f3",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i5 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "61,000\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i5-14th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 32,
+    "product_id": 8,
+    "text": "Product: ASUS ExpertCenter D5 D500ME Core i3 13th Gen Brand PC. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i3 13th Gen Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "63,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 22
+  },
+  {
+    "chunk_id": 33,
+    "product_id": 8,
+    "text": "Category: ASUS. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i3 13th Gen Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "63,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 34,
+    "product_id": 8,
+    "text": "Subcategory: Brand PC. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i3 13th Gen Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "63,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 35,
+    "product_id": 8,
+    "text": "Price: 63,000\u09f3",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i3 13th Gen Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "63,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 36,
+    "product_id": 9,
+    "text": "Product: ASUS ExpertCenter D5 D500ME Core i5 13th Gen Mini Tower Brand PC. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i5 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "67,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i5-13th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 24
+  },
+  {
+    "chunk_id": 37,
+    "product_id": 9,
+    "text": "Category: ASUS. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i5 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "67,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i5-13th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 38,
+    "product_id": 9,
+    "text": "Subcategory: Brand PC. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i5 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "67,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i5-13th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 39,
+    "product_id": 9,
+    "text": "Price: 67,000\u09f3",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i5 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "67,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i5-13th-gen-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 40,
+    "product_id": 10,
+    "text": "Product: ASUS ExpertCenter D5 D500ME Core i7 13th Gen Mini Tower Brand PC. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i7 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "101,850\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i7-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 24
+  },
+  {
+    "chunk_id": 41,
+    "product_id": 10,
+    "text": "Category: ASUS. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i7 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "101,850\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i7-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 42,
+    "product_id": 10,
+    "text": "Subcategory: Brand PC. ",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i7 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "101,850\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i7-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 43,
+    "product_id": 10,
+    "text": "Price: 101,850\u09f3",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i7 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "101,850\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i7-brand-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 44,
+    "product_id": 11,
+    "text": "Product: MSI PRO DP180 13th Gen Core i5 512GB SSD Desktop PC With Monitor. ",
+    "metadata": {
+      "name": "MSI PRO DP180 13th Gen Core i5 512GB SSD Desktop PC With Monitor",
+      "brand": "",
+      "category": "MSI",
+      "price": "67,500\u09f376,500\u09f3",
+      "url": "https://www.startech.com.bd/msi-pro-dp180-13th-gen-core-i5-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 25
+  },
+  {
+    "chunk_id": 45,
+    "product_id": 11,
+    "text": "Category: MSI. ",
+    "metadata": {
+      "name": "MSI PRO DP180 13th Gen Core i5 512GB SSD Desktop PC With Monitor",
+      "brand": "",
+      "category": "MSI",
+      "price": "67,500\u09f376,500\u09f3",
+      "url": "https://www.startech.com.bd/msi-pro-dp180-13th-gen-core-i5-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 46,
+    "product_id": 11,
+    "text": "Subcategory: Brand PC. ",
+    "metadata": {
+      "name": "MSI PRO DP180 13th Gen Core i5 512GB SSD Desktop PC With Monitor",
+      "brand": "",
+      "category": "MSI",
+      "price": "67,500\u09f376,500\u09f3",
+      "url": "https://www.startech.com.bd/msi-pro-dp180-13th-gen-core-i5-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 47,
+    "product_id": 11,
+    "text": "Price: 67,500\u09f376,500\u09f3",
+    "metadata": {
+      "name": "MSI PRO DP180 13th Gen Core i5 512GB SSD Desktop PC With Monitor",
+      "brand": "",
+      "category": "MSI",
+      "price": "67,500\u09f376,500\u09f3",
+      "url": "https://www.startech.com.bd/msi-pro-dp180-13th-gen-core-i5-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 48,
+    "product_id": 12,
+    "text": "Product: Intel 13th Gen Core i5 13400F Gaming Desktop PC. ",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400F Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "79,999\u09f384,500\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400f-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 17
+  },
+  {
+    "chunk_id": 49,
+    "product_id": 12,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400F Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "79,999\u09f384,500\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400f-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 50,
+    "product_id": 12,
+    "text": "Subcategory: Gaming PC. ",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400F Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "79,999\u09f384,500\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400f-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 51,
+    "product_id": 12,
+    "text": "Price: 79,999\u09f384,500\u09f3",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400F Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "79,999\u09f384,500\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400f-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 52,
+    "product_id": 13,
+    "text": "Product: Intel Core Ultra 5 245K Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "94,499\u09f399,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 13
+  },
+  {
+    "chunk_id": 53,
+    "product_id": 13,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "94,499\u09f399,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 54,
+    "product_id": 13,
+    "text": "Subcategory: Gaming PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "94,499\u09f399,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 55,
+    "product_id": 13,
+    "text": "Price: 94,499\u09f399,850\u09f3",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "94,499\u09f399,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 56,
+    "product_id": 14,
+    "text": "Product: Intel Core Ultra 5 245K Gaming Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "109,999\u09f3117,599\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 14
+  },
+  {
+    "chunk_id": 57,
+    "product_id": 14,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "109,999\u09f3117,599\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 58,
+    "product_id": 14,
+    "text": "Subcategory: Gaming PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "109,999\u09f3117,599\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 59,
+    "product_id": 14,
+    "text": "Price: 109,999\u09f3117,599\u09f3",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "109,999\u09f3117,599\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 60,
+    "product_id": 15,
+    "text": "Product: Intel Core i5 14400 14th Gen Gaming Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core i5 14400 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "131,999\u09f3135,950\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14400-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 16
+  },
+  {
+    "chunk_id": 61,
+    "product_id": 15,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core i5 14400 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "131,999\u09f3135,950\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14400-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 62,
+    "product_id": 15,
+    "text": "Subcategory: Gaming PC. ",
+    "metadata": {
+      "name": "Intel Core i5 14400 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "131,999\u09f3135,950\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14400-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 63,
+    "product_id": 15,
+    "text": "Price: 131,999\u09f3135,950\u09f3",
+    "metadata": {
+      "name": "Intel Core i5 14400 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "131,999\u09f3135,950\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14400-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 64,
+    "product_id": 16,
+    "text": "Product: Intel Core i7 14700K 14th Gen Gaming Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core i7 14700K 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "145,999\u09f3153,100\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700k-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 17
+  },
+  {
+    "chunk_id": 65,
+    "product_id": 16,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core i7 14700K 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "145,999\u09f3153,100\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700k-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 66,
+    "product_id": 16,
+    "text": "Subcategory: Gaming PC. ",
+    "metadata": {
+      "name": "Intel Core i7 14700K 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "145,999\u09f3153,100\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700k-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 67,
+    "product_id": 16,
+    "text": "Price: 145,999\u09f3153,100\u09f3",
+    "metadata": {
+      "name": "Intel Core i7 14700K 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "145,999\u09f3153,100\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700k-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 68,
+    "product_id": 17,
+    "text": "Product: Intel Core Ultra 7 265K Gaming Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 7 265K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "167,999\u09f3172,300\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-7-265k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 14
+  },
+  {
+    "chunk_id": 69,
+    "product_id": 17,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 7 265K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "167,999\u09f3172,300\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-7-265k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 70,
+    "product_id": 17,
+    "text": "Subcategory: Gaming PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 7 265K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "167,999\u09f3172,300\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-7-265k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 71,
+    "product_id": 17,
+    "text": "Price: 167,999\u09f3172,300\u09f3",
+    "metadata": {
+      "name": "Intel Core Ultra 7 265K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "167,999\u09f3172,300\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-7-265k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 72,
+    "product_id": 18,
+    "text": "Product: Intel Core i7 14700KF 14th Gen Gaming Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core i7 14700KF 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "235,999\u09f3245,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700kf-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 18
+  },
+  {
+    "chunk_id": 73,
+    "product_id": 18,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core i7 14700KF 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "235,999\u09f3245,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700kf-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 74,
+    "product_id": 18,
+    "text": "Subcategory: Gaming PC. ",
+    "metadata": {
+      "name": "Intel Core i7 14700KF 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "235,999\u09f3245,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700kf-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 75,
+    "product_id": 18,
+    "text": "Price: 235,999\u09f3245,850\u09f3",
+    "metadata": {
+      "name": "Intel Core i7 14700KF 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "235,999\u09f3245,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700kf-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 76,
+    "product_id": 19,
+    "text": "Product: Intel Core Ultra 9 285K Gaming Desktop PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 9 285K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "415,000\u09f3425,955\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-9-285k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 14
+  },
+  {
+    "chunk_id": 77,
+    "product_id": 19,
+    "text": "Category: Intel PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 9 285K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "415,000\u09f3425,955\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-9-285k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 78,
+    "product_id": 19,
+    "text": "Subcategory: Gaming PC. ",
+    "metadata": {
+      "name": "Intel Core Ultra 9 285K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "415,000\u09f3425,955\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-9-285k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 10
+  },
+  {
+    "chunk_id": 79,
+    "product_id": 19,
+    "text": "Price: 415,000\u09f3425,955\u09f3",
+    "metadata": {
+      "name": "Intel Core Ultra 9 285K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "415,000\u09f3425,955\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-9-285k-gaming-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 80,
+    "product_id": 20,
+    "text": "Product: AMD Ryzen 5 5600G Desktop PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,750\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 15
+  },
+  {
+    "chunk_id": 81,
+    "product_id": 20,
+    "text": "Category: Star PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,750\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 82,
+    "product_id": 20,
+    "text": "Subcategory: Desktop. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,750\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 83,
+    "product_id": 20,
+    "text": "Price: 30,750\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,750\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 84,
+    "product_id": 21,
+    "text": "Product: AMD Ryzen 5 5600G Budget Desktop PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "28,999\u09f331,350\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 16
+  },
+  {
+    "chunk_id": 85,
+    "product_id": 21,
+    "text": "Category: Star PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "28,999\u09f331,350\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 86,
+    "product_id": 21,
+    "text": "Subcategory: Desktop. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "28,999\u09f331,350\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 87,
+    "product_id": 21,
+    "text": "Price: 28,999\u09f331,350\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "28,999\u09f331,350\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 88,
+    "product_id": 22,
+    "text": "Product: AMD Ryzen 7 5700G Custom Desktop PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,622\u09f333,650\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 16
+  },
+  {
+    "chunk_id": 89,
+    "product_id": 22,
+    "text": "Category: Star PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,622\u09f333,650\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 90,
+    "product_id": 22,
+    "text": "Subcategory: Desktop. ",
+    "metadata": {
+      "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,622\u09f333,650\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 91,
+    "product_id": 22,
+    "text": "Price: 30,622\u09f333,650\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,622\u09f333,650\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 92,
+    "product_id": 23,
+    "text": "Product: AMD Ryzen 5 5600G Budget Desktop PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "39,700\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 16
+  },
+  {
+    "chunk_id": 93,
+    "product_id": 23,
+    "text": "Category: Star PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "39,700\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 94,
+    "product_id": 23,
+    "text": "Subcategory: Desktop. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "39,700\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 95,
+    "product_id": 23,
+    "text": "Price: 39,700\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "39,700\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-budget-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 96,
+    "product_id": 24,
+    "text": "Product: AMD Ryzen 5 8500G Desktop PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 8500G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "44,500\u09f346,000\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 15
+  },
+  {
+    "chunk_id": 97,
+    "product_id": 24,
+    "text": "Category: Star PC. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 8500G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "44,500\u09f346,000\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 7
+  },
+  {
+    "chunk_id": 98,
+    "product_id": 24,
+    "text": "Subcategory: Desktop. ",
+    "metadata": {
+      "name": "AMD Ryzen 5 8500G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "44,500\u09f346,000\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  },
+  {
+    "chunk_id": 99,
+    "product_id": 24,
+    "text": "Price: 44,500\u09f346,000\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 8500G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "44,500\u09f346,000\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+    },
+    "chunk_type": "sentence_based",
+    "sentence_count": 1,
+    "chunk_size": 9
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "chunk_id": 0,
+    "product_id": 0,
+    "text": "Product: Intel Core i3-12100 12th Gen Budget Desktop PC. Category: Intel PC. Subcategory: Star PC. Price: 28,300\u09f330,120\u09f3",
+    "metadata": {
+      "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "28,300\u09f330,120\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 1,
+    "product_id": 1,
+    "text": "Product: Intel 10th Gen Core i5-10400 Desktop PC. Category: Intel PC. Subcategory: Star PC. Price: 32,150\u09f3",
+    "metadata": {
+      "name": "Intel 10th Gen Core i5-10400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "32,150\u09f3",
+      "url": "https://www.startech.com.bd/intel-10th-gen-core-i5-10400-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 2,
+    "product_id": 2,
+    "text": "Product: Intel 12th Gen Core i5-12400 Desktop PC. Category: Intel PC. Subcategory: Star PC. Price: 33,248\u09f335,750\u09f3",
+    "metadata": {
+      "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "33,248\u09f335,750\u09f3",
+      "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 3,
+    "product_id": 3,
+    "text": "Product: Intel Core i5 14500 14th Gen Desktop PC. Category: Intel PC. Subcategory: Star PC. Price: 48,500\u09f351,800\u09f3",
+    "metadata": {
+      "name": "Intel Core i5 14500 14th Gen Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "48,500\u09f351,800\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14500-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 35
+  },
+  {
+    "chunk_id": 4,
+    "product_id": 4,
+    "text": "Product: Intel 13th Gen Core i5 13400 Budget Desktop PC with Monitor. Category: Intel PC. Subcategory: Star PC. Price: 58,999\u09f360,600\u09f3",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400 Budget Desktop PC with Monitor",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "58,999\u09f360,600\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400-budget-desktop-pc-with-monitor"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 5,
+    "product_id": 5,
+    "text": "Product: Acer Veriton S2690G Core i5 12th Gen Tower Brand PC. Category: Acer. Subcategory: Brand PC. Price: 56,500\u09f3",
+    "metadata": {
+      "name": "Acer Veriton S2690G Core i5 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "56,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-s2690g-core-i5-12th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 40
+  },
+  {
+    "chunk_id": 6,
+    "product_id": 6,
+    "text": "Product: Acer Veriton MT M4690G Core i3 14th Gen Tower Brand PC. Category: Acer. Subcategory: Brand PC. Price: 51,500\u09f3",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i3 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "51,500\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i3-14th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 41
+  },
+  {
+    "chunk_id": 7,
+    "product_id": 7,
+    "text": "Product: Acer Veriton MT M4690G Core i5 14th Gen Tower Brand PC. Category: Acer. Subcategory: Brand PC. Price: 61,000\u09f3",
+    "metadata": {
+      "name": "Acer Veriton MT M4690G Core i5 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Acer",
+      "price": "61,000\u09f3",
+      "url": "https://www.startech.com.bd/acer-veriton-mt-m4690g-core-i5-14th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 41
+  },
+  {
+    "chunk_id": 8,
+    "product_id": 8,
+    "text": "Product: ASUS ExpertCenter D5 D500ME Core i3 13th Gen Brand PC. Category: ASUS. Subcategory: Brand PC. Price: 63,000\u09f3",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i3 13th Gen Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "63,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 40
+  },
+  {
+    "chunk_id": 9,
+    "product_id": 9,
+    "text": "Product: ASUS ExpertCenter D5 D500ME Core i5 13th Gen Mini Tower Brand PC. Category: ASUS. Subcategory: Brand PC. Price: 67,000\u09f3",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i5 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "67,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i5-13th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 42
+  },
+  {
+    "chunk_id": 10,
+    "product_id": 10,
+    "text": "Product: ASUS ExpertCenter D5 D500ME Core i7 13th Gen Mini Tower Brand PC. Category: ASUS. Subcategory: Brand PC. Price: 101,850\u09f3",
+    "metadata": {
+      "name": "ASUS ExpertCenter D5 D500ME Core i7 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "ASUS",
+      "price": "101,850\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-d5-d500me-core-i7-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 42
+  },
+  {
+    "chunk_id": 11,
+    "product_id": 11,
+    "text": "Product: MSI PRO DP180 13th Gen Core i5 512GB SSD Desktop PC With Monitor. Category: MSI. Subcategory: Brand PC. Price: 67,500\u09f376,500\u09f3",
+    "metadata": {
+      "name": "MSI PRO DP180 13th Gen Core i5 512GB SSD Desktop PC With Monitor",
+      "brand": "",
+      "category": "MSI",
+      "price": "67,500\u09f376,500\u09f3",
+      "url": "https://www.startech.com.bd/msi-pro-dp180-13th-gen-core-i5-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 45
+  },
+  {
+    "chunk_id": 12,
+    "product_id": 12,
+    "text": "Product: Intel 13th Gen Core i5 13400F Gaming Desktop PC. Category: Intel PC. Subcategory: Gaming PC. Price: 79,999\u09f384,500\u09f3",
+    "metadata": {
+      "name": "Intel 13th Gen Core i5 13400F Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "79,999\u09f384,500\u09f3",
+      "url": "https://www.startech.com.bd/intel-13th-gen-core-i5-13400f-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 13,
+    "product_id": 13,
+    "text": "Product: Intel Core Ultra 5 245K Desktop PC. Category: Intel PC. Subcategory: Gaming PC. Price: 94,499\u09f399,850\u09f3",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "94,499\u09f399,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 33
+  },
+  {
+    "chunk_id": 14,
+    "product_id": 14,
+    "text": "Product: Intel Core Ultra 5 245K Gaming Desktop PC. Category: Intel PC. Subcategory: Gaming PC. Price: 109,999\u09f3117,599\u09f3",
+    "metadata": {
+      "name": "Intel Core Ultra 5 245K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "109,999\u09f3117,599\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-5-245k-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 15,
+    "product_id": 15,
+    "text": "Product: Intel Core i5 14400 14th Gen Gaming Desktop PC. Category: Intel PC. Subcategory: Gaming PC. Price: 131,999\u09f3135,950\u09f3",
+    "metadata": {
+      "name": "Intel Core i5 14400 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "131,999\u09f3135,950\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i5-14400-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 16,
+    "product_id": 16,
+    "text": "Product: Intel Core i7 14700K 14th Gen Gaming Desktop PC. Category: Intel PC. Subcategory: Gaming PC. Price: 145,999\u09f3153,100\u09f3",
+    "metadata": {
+      "name": "Intel Core i7 14700K 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "145,999\u09f3153,100\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700k-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 17,
+    "product_id": 17,
+    "text": "Product: Intel Core Ultra 7 265K Gaming Desktop PC. Category: Intel PC. Subcategory: Gaming PC. Price: 167,999\u09f3172,300\u09f3",
+    "metadata": {
+      "name": "Intel Core Ultra 7 265K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "167,999\u09f3172,300\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-7-265k-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 18,
+    "product_id": 18,
+    "text": "Product: Intel Core i7 14700KF 14th Gen Gaming Desktop PC. Category: Intel PC. Subcategory: Gaming PC. Price: 235,999\u09f3245,850\u09f3",
+    "metadata": {
+      "name": "Intel Core i7 14700KF 14th Gen Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "235,999\u09f3245,850\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-i7-14700kf-14th-gen-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 19,
+    "product_id": 19,
+    "text": "Product: Intel Core Ultra 9 285K Gaming Desktop PC. Category: Intel PC. Subcategory: Gaming PC. Price: 415,000\u09f3425,955\u09f3",
+    "metadata": {
+      "name": "Intel Core Ultra 9 285K Gaming Desktop PC",
+      "brand": "",
+      "category": "Intel PC",
+      "price": "415,000\u09f3425,955\u09f3",
+      "url": "https://www.startech.com.bd/intel-core-ultra-9-285k-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 20,
+    "product_id": 20,
+    "text": "Product: AMD Ryzen 5 5600G Desktop PC. Category: Star PC. Subcategory: Desktop. Price: 30,750\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,750\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 32
+  },
+  {
+    "chunk_id": 21,
+    "product_id": 21,
+    "text": "Product: AMD Ryzen 5 5600G Budget Desktop PC. Category: Star PC. Subcategory: Desktop. Price: 28,999\u09f331,350\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "28,999\u09f331,350\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-budget-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 35
+  },
+  {
+    "chunk_id": 22,
+    "product_id": 22,
+    "text": "Product: AMD Ryzen 7 5700G Custom Desktop PC. Category: Star PC. Subcategory: Desktop. Price: 30,622\u09f333,650\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "30,622\u09f333,650\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 35
+  },
+  {
+    "chunk_id": 23,
+    "product_id": 23,
+    "text": "Product: AMD Ryzen 5 5600G Budget Desktop PC. Category: Star PC. Subcategory: Desktop. Price: 39,700\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Budget Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "39,700\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-budget-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 33
+  },
+  {
+    "chunk_id": 24,
+    "product_id": 24,
+    "text": "Product: AMD Ryzen 5 8500G Desktop PC. Category: Star PC. Subcategory: Desktop. Price: 44,500\u09f346,000\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 8500G Desktop PC",
+      "brand": "",
+      "category": "Star PC",
+      "price": "44,500\u09f346,000\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 25,
+    "product_id": 25,
+    "text": "Product: AMD Ryzen 5 3400G Processor Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 21,999\u09f323,950\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 3400G Processor Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "21,999\u09f323,950\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-3400g-processor-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 26,
+    "product_id": 26,
+    "text": "Product: AMD Ryzen 5 5600G Custom Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 29,500\u09f331,700\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600G Custom Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "29,500\u09f331,700\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-custom-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 27,
+    "product_id": 27,
+    "text": "Product: AMD Ryzen 5 5600GT Budget Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 28,704\u09f331,200\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5600GT Budget Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "28,704\u09f331,200\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600gt-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 28,
+    "product_id": 28,
+    "text": "Product: AMD Ryzen 5 5500 Gaming PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 44,252\u09f348,100\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 5500 Gaming PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "44,252\u09f348,100\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5500-gaming-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 35
+  },
+  {
+    "chunk_id": 29,
+    "product_id": 29,
+    "text": "Product: AMD Ryzen 5 7600 Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 50,600\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 7600 Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "50,600\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-7600-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 33
+  },
+  {
+    "chunk_id": 30,
+    "product_id": 30,
+    "text": "Product: AMD Ryzen 7 7700 Budget Gaming Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 52,780\u09f356,149\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 7 7700 Budget Gaming Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "52,780\u09f356,149\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-7700-budget-gaming-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 31,
+    "product_id": 31,
+    "text": "Product: AMD Ryzen 7 8700G Budget Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 60,019\u09f363,850\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 7 8700G Budget Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "60,019\u09f363,850\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-8700g-budget-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 32,
+    "product_id": 32,
+    "text": "Product: AMD Ryzen 5 9600X Gaming Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 63,000\u09f367,100\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 9600X Gaming Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "63,000\u09f367,100\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-9600x-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 33,
+    "product_id": 33,
+    "text": "Product: AMD Ryzen 5 7500F Gaming PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 77,499\u09f381,899\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 7500F Gaming PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "77,499\u09f381,899\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-7500f-gaming-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 34,
+    "product_id": 34,
+    "text": "Product: AMD Ryzen 5 7500F Gaming Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 86,999\u09f391,800\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 7500F Gaming Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "86,999\u09f391,800\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-7500f-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 35,
+    "product_id": 35,
+    "text": "Product: AMD Ryzen 5 8400F Gaming Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 88,999\u09f394,700\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 8400F Gaming Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "88,999\u09f394,700\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8400f-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 36,
+    "product_id": 36,
+    "text": "Product: AMD Ryzen 5 7500F Budget Gaming PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 90,499\u09f395,950\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 5 7500F Budget Gaming PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "90,499\u09f395,950\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-7500f-budget-gaming-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 37,
+    "product_id": 37,
+    "text": "Product: AMD Ryzen 7 9700X Gaming Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 134,499\u09f3141,100\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 7 9700X Gaming Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "134,499\u09f3141,100\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-9700x-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 38,
+    "product_id": 38,
+    "text": "Product: AMD Ryzen 7 7700X Gaming Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 149,999\u09f3155,900\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 7 7700X Gaming Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "149,999\u09f3155,900\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-7700x-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 39,
+    "product_id": 39,
+    "text": "Product: AMD Ryzen 7 9800X3D Gaming Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 160,099\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 7 9800X3D Gaming Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "160,099\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-9800x3d-gaming-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 40,
+    "product_id": 40,
+    "text": "Product: AMD Ryzen 7 7700 Gaming PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 162,600\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 7 7700 Gaming PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "162,600\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-7700-gaming-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 33
+  },
+  {
+    "chunk_id": 41,
+    "product_id": 41,
+    "text": "Product: AMD Ryzen 9 9950X3D Gaming PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: 874,999\u09f3884,850\u09f3",
+    "metadata": {
+      "name": "AMD Ryzen 9 9950X3D Gaming PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "874,999\u09f3884,850\u09f3",
+      "url": "https://www.startech.com.bd/amd-ryzen-9-9950x3d-gaming-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 42,
+    "product_id": 42,
+    "text": "Product: AMD Ryzen 7 9700X Gaming PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: Up Coming",
+    "metadata": {
+      "name": "AMD Ryzen 7 9700X Gaming PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "Up Coming",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-9700x-gaming-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 33
+  },
+  {
+    "chunk_id": 43,
+    "product_id": 43,
+    "text": "Product: AMD Ryzen 5 2400G Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: Out Of Stock",
+    "metadata": {
+      "name": "AMD Ryzen 5 2400G Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "Out Of Stock",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 44,
+    "product_id": 44,
+    "text": "Product: AMD Ryzen 5 8600G Desktop PC. Category: RYZEN PC. Subcategory: Gaming PC. Price: Out Of Stock",
+    "metadata": {
+      "name": "AMD Ryzen 5 8600G Desktop PC",
+      "brand": "",
+      "category": "RYZEN PC",
+      "price": "Out Of Stock",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8600g-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 45,
+    "product_id": 45,
+    "text": "Product: Lenovo IdeaCentre 3 07IRB8 Core i3 13th Gen Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 48,500\u09f3",
+    "metadata": {
+      "name": "Lenovo IdeaCentre 3 07IRB8 Core i3 13th Gen Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "48,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i3-13th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 40
+  },
+  {
+    "chunk_id": 46,
+    "product_id": 46,
+    "text": "Product: Lenovo ThinkCentre Neo 50t Gen 4 Core i3 12th Gen Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 50,000\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50t Gen 4 Core i3 12th Gen Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "50,000\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50t-gen-4-core-i3-12th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 40
+  },
+  {
+    "chunk_id": 47,
+    "product_id": 47,
+    "text": "Product: Lenovo ThinkCentre Neo 50s Gen 4 Core i3 13th Gen 512GB SSD Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 51,500\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50s Gen 4 Core i3 13th Gen 512GB SSD Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "51,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50s-gen-4-core-i3-13th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 44
+  },
+  {
+    "chunk_id": 48,
+    "product_id": 48,
+    "text": "Product: Lenovo ThinkCentre Neo 50t Gen 4 Core i3 13th Gen Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 52,500\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50t Gen 4 Core i3 13th Gen Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "52,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50t-gen-4-core-i3-13th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 40
+  },
+  {
+    "chunk_id": 49,
+    "product_id": 49,
+    "text": "Product: Lenovo IdeaCentre 3 07IRB8 Core i5 14th Gen Brand PC (Upgraded). Category: Lenovo. Subcategory: Brand PC. Price: 62,000\u09f3",
+    "metadata": {
+      "name": "Lenovo IdeaCentre 3 07IRB8 Core i5 14th Gen Brand PC (Upgraded)",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "62,000\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i5-14th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 43
+  },
+  {
+    "chunk_id": 50,
+    "product_id": 50,
+    "text": "Product: Lenovo ThinkCentre Neo 50t Gen 4 Core i5 13th Gen Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 62,500\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50t Gen 4 Core i5 13th Gen Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "62,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50t-gen-4-core-i5-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 40
+  },
+  {
+    "chunk_id": 51,
+    "product_id": 51,
+    "text": "Product: Lenovo ThinkCentre Neo 50s Gen 4 Core i5 12th Gen 512GB SSD Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 62,500\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50s Gen 4 Core i5 12th Gen 512GB SSD Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "62,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50s-gen-4-core-i5-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 44
+  },
+  {
+    "chunk_id": 52,
+    "product_id": 52,
+    "text": "Product: Lenovo ThinkCentre Neo 50t Gen 4 Core i5 13th Gen Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 65,500\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50t Gen 4 Core i5 13th Gen Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "65,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50t-gen-4-core-i5-13th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 40
+  },
+  {
+    "chunk_id": 53,
+    "product_id": 53,
+    "text": "Product: Lenovo ThinkCentre Neo 50t Gen 4 Core i5 13th Gen 512GB SSD Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 65,500\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50t Gen 4 Core i5 13th Gen 512GB SSD Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "65,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50t-gen-4-i5-512gb-ssd-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 44
+  },
+  {
+    "chunk_id": 54,
+    "product_id": 54,
+    "text": "Product: Lenovo ThinkCentre Neo 50s SFF Core i7 12th Gen Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 71,500\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50s SFF Core i7 12th Gen Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "71,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50s-sff-core-i7-512gb-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 40
+  },
+  {
+    "chunk_id": 55,
+    "product_id": 55,
+    "text": "Product: Lenovo ThinkCentre Neo 50s Core i7 12th Gen 1TB SSD Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 72,500\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre Neo 50s Core i7 12th Gen 1TB SSD Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "72,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-neo-50s-core-i7-1tb-ssd-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 43
+  },
+  {
+    "chunk_id": 56,
+    "product_id": 56,
+    "text": "Product: Lenovo IdeaCentre 3 07IAB7 Core i7 12th Gen Desktop PC. Category: Lenovo. Subcategory: Brand PC. Price: 71,500\u09f373,500\u09f3",
+    "metadata": {
+      "name": "Lenovo IdeaCentre 3 07IAB7 Core i7 12th Gen Desktop PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "71,500\u09f373,500\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07iab7-core-i7-12th-gen-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 42
+  },
+  {
+    "chunk_id": 57,
+    "product_id": 57,
+    "text": "Product: Lenovo ThinkCentre M70s Gen 3 SFF Core i7 12th Gen Brand PC. Category: Lenovo. Subcategory: Brand PC. Price: 83,000\u09f3",
+    "metadata": {
+      "name": "Lenovo ThinkCentre M70s Gen 3 SFF Core i7 12th Gen Brand PC",
+      "brand": "",
+      "category": "Lenovo",
+      "price": "83,000\u09f3",
+      "url": "https://www.startech.com.bd/lenovo-thinkcentre-m70s-gen-3-sff-core-i7-12th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 42
+  },
+  {
+    "chunk_id": 58,
+    "product_id": 58,
+    "text": "Product: Asus NUC 13 Pro Core i3 13th Gen Portable Mini Pc. Category: Desktop. Price: 46,500\u09f3",
+    "metadata": {
+      "name": "Asus NUC 13 Pro Core i3 13th Gen Portable Mini Pc",
+      "brand": "",
+      "category": "Desktop",
+      "price": "46,500\u09f3",
+      "url": "https://www.startech.com.bd/asus-nuc-13-pro-core-i3-13th-gen-mini-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 28
+  },
+  {
+    "chunk_id": 59,
+    "product_id": 59,
+    "text": "Product: Asus NUC 13 Pro Core i5 13th Gen Portable Mini Pc. Category: Desktop. Price: 60,500\u09f3",
+    "metadata": {
+      "name": "Asus NUC 13 Pro Core i5 13th Gen Portable Mini Pc",
+      "brand": "",
+      "category": "Desktop",
+      "price": "60,500\u09f3",
+      "url": "https://www.startech.com.bd/asus-nuc-13-pro-core-i5-13th-gen-mini-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 28
+  },
+  {
+    "chunk_id": 60,
+    "product_id": 60,
+    "text": "Product: Asus PN41 Celeron N5100 Mini PC. Category: Desktop. Price: 26,000\u09f3",
+    "metadata": {
+      "name": "Asus PN41 Celeron N5100 Mini PC",
+      "brand": "",
+      "category": "Desktop",
+      "price": "26,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-pn41-celeron-n5100-mini-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 27
+  },
+  {
+    "chunk_id": 61,
+    "product_id": 61,
+    "text": "Product: Asus Nuc 14 Essential Core 3 N355 Portable Mini Pc. Category: Desktop. Price: 36,000\u09f3",
+    "metadata": {
+      "name": "Asus Nuc 14 Essential Core 3 N355 Portable Mini Pc",
+      "brand": "",
+      "category": "Desktop",
+      "price": "36,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-nuc-14-essential-core-3-n355-mini-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 28
+  },
+  {
+    "chunk_id": 62,
+    "product_id": 62,
+    "text": "Product: Asus ExpertCenter PN64 Core i3 12th Gen Portable Mini PC. Category: Desktop. Price: 41,000\u09f3",
+    "metadata": {
+      "name": "Asus ExpertCenter PN64 Core i3 12th Gen Portable Mini PC",
+      "brand": "",
+      "category": "Desktop",
+      "price": "41,000\u09f3",
+      "url": "https://www.startech.com.bd/asus-expertcenter-pn64-core-i3-12th-gen-mini-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 30
+  },
+  {
+    "chunk_id": 63,
+    "product_id": 63,
+    "text": "Product: TECLAST K24 Air Intel Celeron N5095 24\" FHD All-in-One PC. Category: Desktop. Price: 42,000\u09f3",
+    "metadata": {
+      "name": "TECLAST K24 Air Intel Celeron N5095 24\" FHD All-in-One PC",
+      "brand": "",
+      "category": "Desktop",
+      "price": "42,000\u09f3",
+      "url": "https://www.startech.com.bd/teclast-k24-air-celeron-n5095-all-in-one-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 64,
+    "product_id": 64,
+    "text": "Product: AOC A33\u00a0Intel Celeron N5095 23.8\" FHD All in One PC. Category: Desktop. Price: 46,500\u09f3",
+    "metadata": {
+      "name": "AOC A33\u00a0Intel Celeron N5095 23.8\" FHD All in One PC",
+      "brand": "",
+      "category": "Desktop",
+      "price": "46,500\u09f3",
+      "url": "https://www.startech.com.bd/aoc-a33-celeron-n5095-all-in-one-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 65,
+    "product_id": 65,
+    "text": "Product: HP Pro Tower 280 G9 Core i3 12th Gen 8GB RAM Desktop PC. Category: Brand PC. Subcategory: Desktop. Price: 52,500\u09f3",
+    "metadata": {
+      "name": "HP Pro Tower 280 G9 Core i3 12th Gen 8GB RAM Desktop PC",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "52,500\u09f3",
+      "url": "https://www.startech.com.bd/hp-280-pro-g9-i3-12th-gen-tower-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 66,
+    "product_id": 66,
+    "text": "Product: Dell OptiPlex 7010 Core i3 12th Gen Tower Desktop PC. Category: Brand PC. Subcategory: Desktop. Price: 53,500\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7010 Core i3 12th Gen Tower Desktop PC",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "53,500\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7010-core-i3-12th-gen-tower-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 67,
+    "product_id": 67,
+    "text": "Product: Dell VOSTRO 3030 MT Core i5 12th Gen Brand PC (Upgraded). Category: Brand PC. Subcategory: Desktop. Price: 56,000\u09f3",
+    "metadata": {
+      "name": "Dell VOSTRO 3030 MT Core i5 12th Gen Brand PC (Upgraded)",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "56,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-vostro-3030-mt-core-i5-12th-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 39
+  },
+  {
+    "chunk_id": 68,
+    "product_id": 68,
+    "text": "Product: Dell VOSTRO 3030 MT Core i3 14th Gen Brand PC. Category: Brand PC. Subcategory: Desktop. Price: 50,500\u09f3",
+    "metadata": {
+      "name": "Dell VOSTRO 3030 MT Core i3 14th Gen Brand PC",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "50,500\u09f3",
+      "url": "https://www.startech.com.bd/dell-vostro-3030-mt-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 69,
+    "product_id": 69,
+    "text": "Product: Dell VOSTRO 3030 MT Core i3 12th Gen Brand PC (Upgraded). Category: Brand PC. Subcategory: Desktop. Price: 46,500\u09f3",
+    "metadata": {
+      "name": "Dell VOSTRO 3030 MT Core i3 12th Gen Brand PC (Upgraded)",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "46,500\u09f3",
+      "url": "https://www.startech.com.bd/dell-vostro-3030-mt-core-i3-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 39
+  },
+  {
+    "chunk_id": 70,
+    "product_id": 70,
+    "text": "Product: Dell VOSTRO 3030 MT Core i7 12th Gen Brand PC (Upgraded). Category: Brand PC. Subcategory: Desktop. Price: 76,000\u09f3",
+    "metadata": {
+      "name": "Dell VOSTRO 3030 MT Core i7 12th Gen Brand PC (Upgraded)",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "76,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-vostro-3030-mt-core-i7-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 39
+  },
+  {
+    "chunk_id": 71,
+    "product_id": 71,
+    "text": "Product: DELL OptiPlex 7010 Core i3 13th Gen 8GB RAM Desktop PC. Category: Brand PC. Subcategory: Desktop. Price: 57,500\u09f3",
+    "metadata": {
+      "name": "DELL OptiPlex 7010 Core i3 13th Gen 8GB RAM Desktop PC",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "57,500\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7010-core-i3-tower-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 39
+  },
+  {
+    "chunk_id": 72,
+    "product_id": 72,
+    "text": "Product: Dell OptiPlex 7020 Core i3 12th Gen Tower Brand PC. Category: Brand PC. Subcategory: Desktop. Price: 55,000\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7020 Core i3 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "55,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7020-core-i3-12th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 73,
+    "product_id": 73,
+    "text": "Product: Dell OptiPlex 7020 Core i3 14th Gen Tower Brand PC. Category: Brand PC. Subcategory: Desktop. Price: 63,000\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7020 Core i3 14th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "63,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7020-core-i3-14th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 74,
+    "product_id": 74,
+    "text": "Product: HP 280 Pro G9 MT Core i3 14th Gen Brand PC. Category: Brand PC. Subcategory: Desktop. Price: 60,000\u09f3",
+    "metadata": {
+      "name": "HP 280 Pro G9 MT Core i3 14th Gen Brand PC",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "60,000\u09f3",
+      "url": "https://www.startech.com.bd/hp-280-pro-g9-mt-core-i3-14th-gen-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 35
+  },
+  {
+    "chunk_id": 75,
+    "product_id": 75,
+    "text": "Product: Dell OptiPlex 7010 Core i5 12th Gen Tower Desktop PC. Category: Brand PC. Subcategory: Desktop. Price: 64,500\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7010 Core i5 12th Gen Tower Desktop PC",
+      "brand": "",
+      "category": "Brand PC",
+      "price": "64,500\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7010-core-i5-12th-gen-tower-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 76,
+    "product_id": 76,
+    "text": "Product: HP 280 Pro G9 MT Core i5 14th Gen Brand PC. Category: HP. Subcategory: Brand PC. Price: 72,500\u09f3",
+    "metadata": {
+      "name": "HP 280 Pro G9 MT Core i5 14th Gen Brand PC",
+      "brand": "",
+      "category": "HP",
+      "price": "72,500\u09f3",
+      "url": "https://www.startech.com.bd/hp-280-pro-g9-mt-core-i5-14th-gen-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 35
+  },
+  {
+    "chunk_id": 77,
+    "product_id": 77,
+    "text": "Product: HP Pro Tower 400 G9 Core i7 12th Gen Desktop PC with Windows 11 Pro. Category: HP. Subcategory: Brand PC. Price: 95,000\u09f3",
+    "metadata": {
+      "name": "HP Pro Tower 400 G9 Core i7 12th Gen Desktop PC with Windows 11 Pro",
+      "brand": "",
+      "category": "HP",
+      "price": "95,000\u09f3",
+      "url": "https://www.startech.com.bd/hp-pro-tower-400-g9-core-i7-12th-gen-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 39
+  },
+  {
+    "chunk_id": 78,
+    "product_id": 78,
+    "text": "Product: HP Pro Tower 290 G9 Core i3 12th Gen\u00a0Brand\u00a0PC. Category: HP. Subcategory: Brand PC. Price: 49,000\u09f3",
+    "metadata": {
+      "name": "HP Pro Tower 290 G9 Core i3 12th Gen\u00a0Brand\u00a0PC",
+      "brand": "",
+      "category": "HP",
+      "price": "49,000\u09f3",
+      "url": "https://www.startech.com.bd/hp-pro-tower-290-g9-core-i3-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 35
+  },
+  {
+    "chunk_id": 79,
+    "product_id": 79,
+    "text": "Product: HP Pro Tower 290 G9 Core i5 12th Gen Brand PC (Upgraded). Category: HP. Subcategory: Brand PC. Price: 58,000\u09f3",
+    "metadata": {
+      "name": "HP Pro Tower 290 G9 Core i5 12th Gen Brand PC (Upgraded)",
+      "brand": "",
+      "category": "HP",
+      "price": "58,000\u09f3",
+      "url": "https://www.startech.com.bd/hp-pro-tower-290-g9-core-i5-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 80,
+    "product_id": 80,
+    "text": "Product: HP Pro Tower 290 G9 Core i7 12th Gen Brand PC (Upgraded). Category: HP. Subcategory: Brand PC. Price: 76,000\u09f3",
+    "metadata": {
+      "name": "HP Pro Tower 290 G9 Core i7 12th Gen Brand PC (Upgraded)",
+      "brand": "",
+      "category": "HP",
+      "price": "76,000\u09f3",
+      "url": "https://www.startech.com.bd/hp-pro-tower-290-g9-core-i7-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 81,
+    "product_id": 81,
+    "text": "Product: HP Pro Tower 400 G9 Core i5 13th Gen Brand PC (Upgraded). Category: HP. Subcategory: Brand PC. Price: 74,000\u09f3",
+    "metadata": {
+      "name": "HP Pro Tower 400 G9 Core i5 13th Gen Brand PC (Upgraded)",
+      "brand": "",
+      "category": "HP",
+      "price": "74,000\u09f3",
+      "url": "https://www.startech.com.bd/hp-pro-tower-400-g9-core-i5-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 82,
+    "product_id": 82,
+    "text": "Product: HP Pro Tower 280 G9 Core i7 12th Gen 16GB RAM 512GB SSD Desktop PC. Category: HP. Subcategory: Brand PC. Price: 83,000\u09f3",
+    "metadata": {
+      "name": "HP Pro Tower 280 G9 Core i7 12th Gen 16GB RAM 512GB SSD Desktop PC",
+      "brand": "",
+      "category": "HP",
+      "price": "83,000\u09f3",
+      "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i7-12th-gen-512gb-ssd-desktop"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 42
+  },
+  {
+    "chunk_id": 83,
+    "product_id": 83,
+    "text": "Product: HP Pro Tower 280 G9 Core i7 14th Gen Brand PC. Category: HP. Subcategory: Brand PC. Price: Up Coming",
+    "metadata": {
+      "name": "HP Pro Tower 280 G9 Core i7 14th Gen Brand PC",
+      "brand": "",
+      "category": "HP",
+      "price": "Up Coming",
+      "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i7-14th-gen-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 84,
+    "product_id": 84,
+    "text": "Product: AMD Ryzen 5 8400F Gaming PC. Category: Ryzen PC. Subcategory: Star PC. Price: Out Of Stock",
+    "metadata": {
+      "name": "AMD Ryzen 5 8400F Gaming PC",
+      "brand": "",
+      "category": "Ryzen PC",
+      "price": "Out Of Stock",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8400f-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 34
+  },
+  {
+    "chunk_id": 85,
+    "product_id": 85,
+    "text": "Product: Dell OptiPlex 3000 Core i5 12th Gen Tower Brand PC. Category: Dell. Subcategory: Brand PC. Price: 65,000\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 3000 Core i5 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "65,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-3000-core-i5-12th-gen-tower-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 86,
+    "product_id": 86,
+    "text": "Product: Dell OptiPlex 7020 Core i5 12th Gen Tower Brand PC. Category: Dell. Subcategory: Brand PC. Price: 66,500\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7020 Core i5 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "66,500\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7020-core-i5-12th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 87,
+    "product_id": 87,
+    "text": "Product: DELL OptiPlex 7010 Tower Core i5 13th Gen 512GB Brand PC. Category: Dell. Subcategory: Brand PC. Price: 70,500\u09f3",
+    "metadata": {
+      "name": "DELL OptiPlex 7010 Tower Core i5 13th Gen 512GB Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "70,500\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7010-core-i5-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 39
+  },
+  {
+    "chunk_id": 88,
+    "product_id": 88,
+    "text": "Product: Dell VOSTRO 3030 MT Core i5 14th Gen Brand PC. Category: Dell. Subcategory: Brand PC. Price: 64,000\u09f3",
+    "metadata": {
+      "name": "Dell VOSTRO 3030 MT Core i5 14th Gen Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "64,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-vostro-3030-mt-core-i5-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 89,
+    "product_id": 89,
+    "text": "Product: Dell OptiPlex 7020 Core i5 13th Gen Tower Brand PC. Category: Dell. Subcategory: Brand PC. Price: 72,000\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7020 Core i5 13th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "72,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7020-core-i5-13th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 90,
+    "product_id": 90,
+    "text": "Product: Dell Inspiron 3030 MT Core i5 14th Gen Brand PC. Category: Dell. Subcategory: Brand PC. Price: 73,000\u09f3",
+    "metadata": {
+      "name": "Dell Inspiron 3030 MT Core i5 14th Gen Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "73,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-inspiron-3030-mt-i5-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 91,
+    "product_id": 91,
+    "text": "Product: Dell OptiPlex Tower 7020 Plus Core i5 14th Gen Brand PC. Category: Dell. Subcategory: Brand PC. Price: 75,000\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex Tower 7020 Plus Core i5 14th Gen Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "75,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-tower-7020-plus-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 38
+  },
+  {
+    "chunk_id": 92,
+    "product_id": 92,
+    "text": "Product: Dell OptiPlex 7010 Core i7 13th Gen Brand PC. Category: Dell. Subcategory: Brand PC. Price: 93,000\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7010 Core i7 13th Gen Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "93,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7010-core-i7-13th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 93,
+    "product_id": 93,
+    "text": "Product: Dell Vostro 3020T Core i7 13th Gen Desktop PC. Category: Dell. Subcategory: Brand PC. Price: 95,000\u09f3",
+    "metadata": {
+      "name": "Dell Vostro 3020T Core i7 13th Gen Desktop PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "95,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-vostro-3020t-core-i7-13th-gen-desktop-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 36
+  },
+  {
+    "chunk_id": 94,
+    "product_id": 94,
+    "text": "Product: Dell OptiPlex 7020 MT Core i7 13th Gen Mini Tower Brand PC. Category: Dell. Subcategory: Brand PC. Price: 95,000\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7020 MT Core i7 13th Gen Mini Tower Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "95,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7020-mt-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 39
+  },
+  {
+    "chunk_id": 95,
+    "product_id": 95,
+    "text": "Product: Dell OptiPlex 7020 Core i7 12th Gen Tower Brand PC. Category: Dell. Subcategory: Brand PC. Price: 93,000\u09f3",
+    "metadata": {
+      "name": "Dell OptiPlex 7020 Core i7 12th Gen Tower Brand PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "93,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-optiplex-7020-core-i7-12th-gen-brand-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 37
+  },
+  {
+    "chunk_id": 96,
+    "product_id": 96,
+    "text": "Product: Dell Inspiron 5430 Intel Core 5 120U 23.8\" FHD All-in-One PC. Category: Dell. Subcategory: All-in-One PC. Price: 92,000\u09f3",
+    "metadata": {
+      "name": "Dell Inspiron 5430 Intel Core 5 120U 23.8\" FHD All-in-One PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "92,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-inspiron-5430-intel-core-5-all-in-one-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 49
+  },
+  {
+    "chunk_id": 97,
+    "product_id": 97,
+    "text": "Product: Dell Inspiron 5430 Intel Core 7 150U 23.8\" FHD All-in-One PC. Category: Dell. Subcategory: All-in-One PC. Price: 118,000\u09f3",
+    "metadata": {
+      "name": "Dell Inspiron 5430 Intel Core 7 150U 23.8\" FHD All-in-One PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "118,000\u09f3",
+      "url": "https://www.startech.com.bd/dell-inspiron-5430-intel-core-7-all-in-one-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 49
+  },
+  {
+    "chunk_id": 98,
+    "product_id": 98,
+    "text": "Product: Dell OptiPlex 7420 Core i5 14th Gen 23.8\" FHD Touch All-in-One PC. Category: Dell. Subcategory: All-in-One PC. Price: Out Of Stock",
+    "metadata": {
+      "name": "Dell OptiPlex 7420 Core i5 14th Gen 23.8\" FHD Touch All-in-One PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "Out Of Stock",
+      "url": "https://www.startech.com.bd/dell-optiplex-7420-core-i5-14th-gen-all-in-one-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 51
+  },
+  {
+    "chunk_id": 99,
+    "product_id": 99,
+    "text": "Product: Dell OptiPlex 7420 Core i7 14th Gen 23.8\" FHD Touch All-in-One PC. Category: Dell. Subcategory: All-in-One PC. Price: Out Of Stock",
+    "metadata": {
+      "name": "Dell OptiPlex 7420 Core i7 14th Gen 23.8\" FHD Touch All-in-One PC",
+      "brand": "",
+      "category": "Dell",
+      "price": "Out Of Stock",
+      "url": "https://www.startech.com.bd/dell-optiplex-7420-core-i7-14th-gen-all-in-one-pc"
+    },
+    "chunk_type": "semantic_based",
+    "chunk_size": 51
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "token_512_50": {
+    "chunking_method": "token_based",
+    "total_chunks": 1000,
+    "total_products": 1000,
+    "avg_chunks_per_product": 1.0,
+    "processing_time": 1.200038194656372,
+    "chunk_size_config": 512,
+    "overlap_config": 50,
+    "avg_chunk_size": 41.1,
+    "min_chunk_size": 19,
+    "max_chunk_size": 63
+  },
+  "token_256_25": {
+    "chunking_method": "token_based",
+    "total_chunks": 1000,
+    "total_products": 1000,
+    "avg_chunks_per_product": 1.0,
+    "processing_time": 1.024960994720459,
+    "chunk_size_config": 256,
+    "overlap_config": 25,
+    "avg_chunk_size": 41.1,
+    "min_chunk_size": 19,
+    "max_chunk_size": 63
+  },
+  "sentence_3": {
+    "chunking_method": "sentence_based",
+    "total_chunks": 3973,
+    "total_products": 1000,
+    "avg_chunks_per_product": 3.973,
+    "processing_time": 0.4259967803955078,
+    "sentences_per_chunk_config": 3,
+    "avg_sentences_per_chunk": 1.0636798389126605,
+    "avg_chunk_size": 12.140196325195067,
+    "min_chunk_size": 5,
+    "max_chunk_size": 46
+  },
+  "sentence_5": {
+    "chunking_method": "sentence_based",
+    "total_chunks": 3973,
+    "total_products": 1000,
+    "avg_chunks_per_product": 3.973,
+    "processing_time": 0.4439990520477295,
+    "sentences_per_chunk_config": 5,
+    "avg_sentences_per_chunk": 1.0636798389126605,
+    "avg_chunk_size": 12.140196325195067,
+    "min_chunk_size": 5,
+    "max_chunk_size": 46
+  },
+  "semantic_05": {
+    "chunking_method": "semantic_based",
+    "total_chunks": 1594,
+    "total_products": 1000,
+    "avg_chunks_per_product": 1.594,
+    "processing_time": 18.378517627716064,
+    "similarity_threshold_config": 0.5,
+    "avg_chunk_size": 26.90150564617315,
+    "min_chunk_size": 6,
+    "max_chunk_size": 64
+  },
+  "semantic_07": {
+    "chunking_method": "semantic_based",
+    "total_chunks": 1594,
+    "total_products": 1000,
+    "avg_chunks_per_product": 1.594,
+    "processing_time": 14.001998662948608,
+    "similarity_threshold_config": 0.7,
+    "avg_chunk_size": 26.90150564617315,
+    "min_chunk_size": 6,
+    "max_chunk_size": 64
+  }
+}
